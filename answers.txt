@@ -1,1 +1,3 @@
-ECHO is on.
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Every field uses data since, for example, marketing uses data science to learn about trends and change up their marketing strategy
