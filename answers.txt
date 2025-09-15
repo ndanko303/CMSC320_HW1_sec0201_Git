@@ -5,3 +5,7 @@ Answer: Learning git is an essential tool to any computer science student. Under
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Every field uses data since, for example, marketing uses data science to learn about trends and change up their marketing strategy
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging keeps the original commit history and adds a merge commit. Rebasing overwrites the commit history so it looks like you made changes on top of the most recent changes.
