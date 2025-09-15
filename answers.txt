@@ -9,3 +9,7 @@ Answer: Every field uses data since, for example, marketing uses data science to
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging keeps the original commit history and adds a merge commit. Rebasing overwrites the commit history so it looks like you made changes on top of the most recent changes.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to taking CS classes that pertain to what I want to do for my career in the future.
